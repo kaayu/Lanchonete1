@@ -52,7 +52,7 @@
                     <li class="list-group-item">Pedidos sendo feitos</li>
                     <li class="list-group-item">Cardapio</li>
                     <li class="list-group-item">Estoque</li>
-                    <li class="list-group-item">Histórico</li>
+                    <li class="list-group-item">Histórico de pedidos</li>
                 </ul>
             </div>
         </div>
