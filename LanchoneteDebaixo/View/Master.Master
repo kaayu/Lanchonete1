@@ -51,7 +51,7 @@
                     <li class="list-group-item">Adicionar pedido</li>
                     <li class="list-group-item">Pedidos sendo feitos</li>
                     <li class="list-group-item">Cardapio</li>
-                    <li class="list-group-item">Estoque</li>
+                    <li class="list-group-item">Estoque de ingredientes</li>
                     <li class="list-group-item">Histórico de pedidos</li>
                 </ul>
             </div>
